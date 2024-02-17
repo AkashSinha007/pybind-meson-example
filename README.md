@@ -7,16 +7,16 @@ Steps:
 2. Example: Traverse into the builddir file and use the commands as mentioned below 
    and import the module into python interpreter to use it.
 
-$ cd builddir
-$ python3
+$ cd builddir <br>
+$ python3 <br>
 ......
 Type "help", "copyright", "credits" or "license" for more information.
->>> import example123
->>> example123.add_Akash(3,5)
-8
->>> help(example123)
+> > > import example123 <br>
+> > > example123.add_Akash(3,5) <br>
+8 <br>
+> > > help(example123) <br>
 
->>> 
+> > > <br>
 
 Help on module example123:
 
